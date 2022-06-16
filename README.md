@@ -1,2 +1,2 @@
 # Personal-Site
-This is created you html ansd css
+This is created using html ansd css
